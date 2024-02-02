@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/sarroutb-tenant/devfile-sample-go-basic/devfile-sample-go-basic@sha256:3c6d342a7f22ecf2741a886705a6aee9538530ad0876376b6478a5a17040d1da
+      - image: quay.io/redhat-user-workloads/sarroutb-tenant/devfile-sample-go-basic/devfile-sample-go-basic@sha256:845309ed18e932e97d4e082ef2dc79e5110c9d2d570d33762dbb4a029ad297d2
         name: my-go
         resources: {}
 status: {}
